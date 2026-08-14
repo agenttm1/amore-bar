@@ -538,7 +538,7 @@ export default function Home() {
               © {new Date().getFullYear()} Sva prava pridržana.
             </p>
             <a 
-              href="https://instagram.com/tvoj_tm_studio_profil" 
+              href="https://www.instagram.com/tmstudios31" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-[9px] uppercase tracking-[0.2em] text-neutral-500 hover:text-[#D35400] transition-colors flex items-center justify-center md:justify-end gap-1"
